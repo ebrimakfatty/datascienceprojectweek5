@@ -1,0 +1,9 @@
+flask
+scikit-learn
+shap
+lime
+pandas
+numpy
+joblib
+streamlit
+pyngrok
